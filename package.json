@@ -9,7 +9,7 @@
   "author": "HaYeongJoo",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1148.0",
-    "sharp": "^0.30.6"
+    "aws-sdk": "^2.634.0",
+    "sharp": "^0.25.1"
   }
 }
