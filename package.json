@@ -1,0 +1,15 @@
+{
+  "name": "aws-upload",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HaYeongJoo",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1148.0",
+    "sharp": "^0.30.6"
+  }
+}
